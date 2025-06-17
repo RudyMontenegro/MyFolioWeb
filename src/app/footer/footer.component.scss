@@ -1,0 +1,19 @@
+.footer {
+  background-color: rgba(33, 37, 41, 0.7);
+  backdrop-filter: blur(5px);
+}
+
+.btn-dark {
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: transform 0.2s;
+}
+
+.btn-dark:hover {
+  transform: translateY(-3px);
+}

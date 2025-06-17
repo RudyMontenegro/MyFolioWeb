@@ -1,0 +1,34 @@
+.nav-link {
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: rgba(255,255,255,0.9) !important;
+}
+
+.navbar-brand {
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+@media (max-width: 991.98px) {
+  .navbar-nav {
+    margin-top: 1rem;
+  }
+  
+  .nav-item {
+    text-align: center;
+  }
+}
+
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.blinking-cursor {
+  animation: blink 1s step-end infinite;
+  font-weight: bold;
+}
+

@@ -1,0 +1,34 @@
+<section class="py-5">
+  <div class="text-center mb-5">
+    <h2 class="display-5 fw-bold">{{ 'CERTIFICATES' | translate }}</h2>
+  </div>
+  
+  <swiper-container
+    effect="coverflow"
+    grab-cursor="true"
+    centered-slides="true"
+    slides-per-view="auto"
+    coverflow-effect-rotate="50"
+    coverflow-effect-stretch="0"
+    coverflow-effect-depth="100"
+    coverflow-effect-modifier="1"
+    coverflow-effect-slide-shadows="true"
+    class="mySwiper">
+    <swiper-slide *ngFor="let slide of slides">
+      <img [src]="slide.image" [alt]="slide.title">
+      <div class="slide-content">
+        <h3>{{slide.title}}</h3>
+        <p>{{slide.description}}</p>
+      </div>
+    </swiper-slide>
+  </swiper-container>
+
+  <div class="navigation-buttons text-center mt-4">
+    <button class="btn btn-dark mx-2 navigation-prev">
+      <i class="fas fa-chevron-left"></i>
+    </button>
+    <button class="btn btn-dark mx-2 navigation-next">
+      <i class="fas fa-chevron-right"></i>
+    </button>
+  </div>
+</section> 

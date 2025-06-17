@@ -1,0 +1,18 @@
+<section class="services-section container py-5">
+  <div class="text-center mb-5">
+    <!-- <h6 class="text-uppercase fw-bold mb-2">Services</h6> -->
+    <h2 class="display-5   fw-bold mb-4">{{ 'SERVICES.TITLE' | translate }}</h2>
+  </div>
+  
+  <div class="row g-4">
+    <div class="col-md-6 col-lg-4" *ngFor="let service of services; let i = index" [ngClass]="{'offset-lg-2': i === 3, 'offset-lg-0': i === 4}">
+      <div class="service-card bg-white rounded-4 p-4 text-center h-100 shadow-sm">
+        <div class="icon-circle mb-4 mx-auto">
+          <i [class]="service.icon"></i>
+        </div>
+        <h3 class="h5 fw-bold mb-3">{{ service.titleKey | translate }}</h3>
+        <p class="text-secondary mb-0">{{ service.descriptionKey | translate }}</p>
+      </div>
+    </div>
+  </div>
+</section> 

@@ -1,0 +1,87 @@
+{
+  "TITLE": "Hola",
+  "SUBTITLE": "Bienvenido a mi sitio web",
+  "CERTIFICATES": "Mis Certificados",
+  "ACADEMIC_TRAINING": "Formación Académica",
+  "MY_WORK_EXPERIENCE": "Donde trabajé",
+
+  "WELCOME TO MY WEB DEVELOPMENT PORTFOLIO!" : "Bienvenido a mi Portfolio Web",
+  "HERO_DESCRIPTION": "Soy Rudy, Ingeniero en Sistemas especializado en desarrollo Front-End y aplicaciones móviles, apasionado por construir interfaces intuitivas y dinámicas. También cuento con experiencia en desarrollo Backend, lo que me permite comprender y participar en todo el ciclo de vida del software. Además, cuento con un diplomado en seguridad de la información, lo que refuerza mi enfoque en crear soluciones digitales seguras y eficientes.",
+  "READ_TERMS": "Leer mis Términos y Condiciones",
+  "I_DESCRIBE_MYSELF_AS": "Me describo como:",
+  "SKILLS": "Skills",
+  "PROJECTS": "Proyectos",
+  "FEATURED": "Destacados",
+  "CONTACT": "Contacto",
+  "LANGUAGE": "Idioma",
+  "HERO_STRING_1": "Proactivo",
+  "HERO_STRING_2": "Entusiasta de la Tecnología",
+  "HERO_STRING_3": "Resolvedor de Problemas",
+  "HERO_STRING_4": "Carismatico",
+  
+  "SERVICES": {
+    "TITLE": "Mis Skills",
+    "ITEMS": {
+      "FRONTEND": {
+        "TITLE": "Desarrollo Web Frontend",
+        "DESCRIPTION": "Creación de aplicaciones web responsivas e interactivas utilizando frameworks Angular, Vue.js, Bootstrap, Material y las mejores prácticas en html, scss, javaScript, material y bootstrap"
+      },
+      "MOBILE": {
+        "TITLE": "Desarrollo de Aplicaciones Móviles",
+        "DESCRIPTION": "Experiencia en desarrollo de aplicaciones móviles multiplataforma utilizando frameworks como Ionic, brindando experiencias de usuario fluidas y optimizadas."
+      },
+      "TECH_STACK": {
+        "TITLE": "Desarrollo Web Backend",
+        "DESCRIPTION": "Experiencia en desarrollo backend con frameworks como Laravel y Flask, construyendo APIs y servicios robustos y escalables."
+      },
+      "OPTIMIZATION": {
+        "TITLE": "Optimización App Movil",
+        "DESCRIPTION": "Experiencia en optimización del rendimiento de App movil para tiempos de carga más rápidos y mejor experiencia de usuario."
+      },
+      "DESIGN": {
+        "TITLE": "Habilidades blandas",
+        "DESCRIPTION": "Me destaco por mi capacidad de comunicarme claramente y mi habilidad para colaborar eficazmente en la resolución de problemas en equipo."
+      },
+      "TESTING": {
+        "TITLE": "Pruebas y Aseguramiento de Calidad",
+        "DESCRIPTION": "Garantizar código de alta calidad a través de procesos integrales de pruebas y aseguramiento de calidad."
+      }
+    }
+  },
+
+  "projects": {
+    "mencargo": {
+      "description": "Elaboración y despliegue completa de la landing page del proyecto Mencargo",
+      "longDescription": "Una aplicación web SPA (Single Page Application) desarrollada con buenas practicas, incluyendo sistema de internacionalización, componentes interactivos con Swiper, formularios dinámicos y animaciones fluidas. La plataforma está completamente optimizada para dispositivos móviles y ofrece una experiencia de usuario intuitiva y responsiva."
+    },
+    "mencargo_movil": {
+      "description": "Contribución en nuevas funcionalidades, realicé migraciones del framework y optimicé el código para mantener la aplicación móvil actualizada y eficiente.",
+      "longDescription": "Contribución significativa al proyecto mediante el desarrollo de nuevas funcionalidades, la implementación de mejoras, la migración del framework a versiones más recientes y la optimización del código. Mi trabajo permitió mantener la aplicación actualizada, optimizada y alineada con las mejores prácticas tecnológicas."
+    },
+    "ventu": {
+      "description": "Contribución en nuevas funcionalidades y migracion del framework de la app, ",
+      "longDescription": "Contribuion en el desarrollo de nuevas funcionalidades, la implementación de mejoras, la migración del framework a versiones más recientes y la optimización del código. Mi trabajo permitió mantener la aplicación actualizada, optimizada y alineada con las mejores prácticas tecnológicas."
+    },
+    "backend": {
+      "description": "Contribución de nuevas funcionalidades, mantenimiento, soporte y despliegue a producción",
+      "longDescription": "Participación en el desarrollo del backend, incluyendo la implementación de nuevas funcionalidades orientadas a mejorar la experiencia del usuario. También contribuí al mantenimiento continuo del sistema para asegurar su estabilidad, escalabilidad y rendimiento. Contribuí a la preparación y ejecución de despliegues a entornos de producción. Adicionalmente, brindé soporte técnico para la resolución de incidencias críticas, monitoreo de servicios, análisis de logs y mejora continua del sistema en coordinación con miembros del equipo de desarrollo."
+    },
+    "MyFolio": {
+    "description": "Elaboración completa del proyecto aplicando las mejores prácticas y experiencia adquirida.",
+    "longDescription": "Desarrollo completo del proyecto MyFolio desde cero. Se aplicaron las mejores prácticas en estructuración de código y patrones de diseño. El proyecto fue concebido incorporando lo aprendido en experiencias previas para garantizar calidad, rendimiento y mantenibilidad. MyFolio también sirvió como un espacio para experimentar y consolidar conocimientos en Angular."  
+  }
+  },
+
+  "PROJECTS_SECTION_TITLE": "Mi experiencia en proyectos y contribuciones",
+  "SEE_DETAILS": "VER DETALLES",
+  "PROJECT_OVERVIEW": "Descripción del Proyecto",
+  "TECHNOLOGIES_USED": "Tecnologías Utilizadas",
+  "CLOSE": "Cerrar",
+
+  "FOOTER": {
+    "EMAIL": "Enviame un correo a",
+    "WHATSAPP": "Escribe a Whatsapp:",
+    "SOCIAL_MEDIA": "Redes sociales",
+    "COPYRIGHT": "© 2024 My Portfolio. Todos los derechos reservados."
+  }
+}

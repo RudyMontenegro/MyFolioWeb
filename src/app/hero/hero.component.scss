@@ -1,0 +1,19 @@
+.hero-section {
+  padding: 2rem 0;
+}
+
+h1 {
+  font-family: 'Oxanium', cursive;
+  line-height: 1.2;
+}
+
+.lead {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+}

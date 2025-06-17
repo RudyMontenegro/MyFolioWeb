@@ -1,0 +1,23 @@
+<div class="hero-section container ">
+  <div class="row min-vh-90 align-items-center mx-3">
+    <!-- Left Column -->
+    <div class="col-lg-7 mb-4 mb-lg-0">
+      <h1 class="display-4 fw-bold mb-4">{{ 'WELCOME TO MY WEB DEVELOPMENT PORTFOLIO!' | translate }}</h1>
+      <p class="lead mb-4">
+        {{ 'HERO_DESCRIPTION' | translate }}
+      </p>
+      <h2>{{ 'I_DESCRIBE_MYSELF_AS' | translate }}</h2>
+      <h3><span #typedElement class="text-white"></span></h3>
+    </div>
+    
+    <!-- Right Column -->
+    <div class="col-lg-5 text-center">
+      <img 
+        [src]="'assets/images/profile/rudy_profile3.png'" 
+        alt="Profile Image" 
+        class="img-fluid rounded-4 shadow-lg"
+        style="max-height: 500px; object-fit: cover;"
+      >
+    </div>
+  </div>
+</div>

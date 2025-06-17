@@ -1,0 +1,27 @@
+.client-logo {
+  transition: transform 0.3s ease;
+}
+
+.client-logo:hover {
+  transform: translateY(-5px);
+}
+
+h6 {
+  letter-spacing: 2px;
+  font-size: 0.9rem;
+}
+
+.lead {
+  font-size: 1.1rem;
+}
+
+.personal-image {
+  max-width: 800px;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .display-5 {
+    font-size: calc(1.5rem + 1.5vw);
+  }
+} 

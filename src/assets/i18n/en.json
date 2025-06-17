@@ -1,0 +1,85 @@
+{
+    "TITLE": "Hello",
+    "SUBTITLE": "Welcome to my website",
+    "CERTIFICATES": "My Certificates",
+    "WELCOME TO MY WEB DEVELOPMENT PORTFOLIO!" : "Welcome To My Web Development Portfolio!",
+    "HERO_DESCRIPTION": "I'm Rudy, a Systems Engineer specialized in Front-End development and mobile applications, passionate about building intuitive and dynamic user interfaces. I also have experience in Backend development, which allows me to understand and contribute to the full software development lifecycle. Additionally, I hold a diploma in Information Security, reinforcing my focus on creating secure and efficient digital solutions.",
+    "I_DESCRIBE_MYSELF_AS": "I describe myself as:",
+    "SKILLS": "Skills",
+    "PROJECTS": "Projects",
+    "FEATURED": "Featured",
+    "CONTACT": "Contact",
+    "LANGUAGE": "Language",
+    "HERO_STRING_1": "Proactive",
+    "HERO_STRING_2": "Technology Enthusiast",
+    "HERO_STRING_3": "Problem Solver",
+    "HERO_STRING_4": "Charismatic",
+    "ACADEMIC_TRAINING": "Academic Background",
+
+    "MY_WORK_EXPERIENCE": "Where I work",
+
+    "SERVICES": {
+        "TITLE": "My Skills",
+        "ITEMS": {
+            "FRONTEND": {
+                "TITLE": "Frontend Development",
+                "DESCRIPTION": "Creating responsive and interactive web applications using Angular,Vue.js, Bootstrap and Material frameworks and best practices in html, scss, javaScript, material and bootstrap"
+            },
+            "MOBILE": {
+                "TITLE": "Mobile App Development",
+                "DESCRIPTION": "Experience in developing cross-platform mobile applications using frameworks like Ionic, delivering smooth and optimized user experiences."
+            },
+            "TECH_STACK": {
+                "TITLE": "Backend Development",
+                "DESCRIPTION": "Skilled in backend development with frameworks such as Laravel and Flask, building robust and scalable APIs and services."
+            },
+            "OPTIMIZATION": {
+                "TITLE": "Mobile App Development",
+                "DESCRIPTION": "Experience in optimizing mobile app to performance for faster load times and better user experience."
+            },
+            "DESIGN": {
+                "TITLE": "Soft Skills",
+                "DESCRIPTION": "I excel at clear communication and have strong abilities to collaborate effectively in solving team problems."
+            },
+            "TESTING": {
+                "TITLE": "Testing and Quality Assurance",
+                "DESCRIPTION": "Ensuring high-quality code through comprehensive testing and quality assurance processes."
+            }
+        }
+    },
+
+    "projects": {
+        "mencargo": {
+            "description": "Complete development and deployment of the Mencargo project landing page",
+            "longDescription": "A Single Page Application (SPA) web app developed with best practices, including an internationalization system, interactive components with Swiper, dynamic forms, and smooth animations. The platform is fully optimized for mobile devices and offers an intuitive and responsive user experience."
+        },
+        "mencargo_movil": {
+            "description": "Contribution to new features, framework migrations and code optimization to keep the mobile application updated and efficient.",
+            "longDescription": "Significant contribution to the project through the development of new features, implementation of improvements, framework migration to newer versions, and code optimization. My work helped maintain the application updated, optimized and aligned with the best technological practices."
+        },
+        "ventu": {
+            "description": "Contribution to new features and framework migration of the app",
+            "longDescription": "Contribution to the development of new features, implementation of improvements, framework migration to newer versions, and code optimization. My work helped maintain the application updated, optimized and aligned with the best technological practices."
+        },
+        "backend": {
+            "description": "Contribution of new features, maintenance, support and production deployment",
+            "longDescription": "Participation in backend development, including the implementation of new features aimed at improving user experience. Also contributed to continuous system maintenance to ensure its stability, scalability and performance. Contributed to the preparation and execution of production deployments. Additionally, provided technical support for critical incident resolution, service monitoring, log analysis and continuous system improvement in coordination with development team members."
+        },
+        "MyFolio": {
+            "description": "Complete project development applying best practices and acquired experience.",
+            "longDescription": "Complete development of the MyFolio project from scratch. Best practices in code structuring and design patterns were applied. The project was conceived incorporating lessons learned from previous experiences to ensure quality, performance and maintainability. MyFolio also served as a space to experiment and consolidate knowledge in Angular."
+        }
+    },
+
+    "PROJECTS_SECTION_TITLE": "My experience in projects and contributions",
+    "SEE_DETAILS": "SEE DETAILS",
+    "PROJECT_OVERVIEW": "Project Overview",
+    "TECHNOLOGIES_USED": "Technologies Used",
+    "CLOSE": "Close",
+    "FOOTER": {
+        "EMAIL": "Send me an email to",
+        "WHATSAPP": "Write to WhatsApp:",
+        "SOCIAL_MEDIA": "Social Media",
+        "COPYRIGHT": "© 2024 My Portfolio. All rights reserved."
+    }
+}
