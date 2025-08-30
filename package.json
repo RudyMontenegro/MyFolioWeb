@@ -5,7 +5,8 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "dev": "ng serve --watch"
+    "dev": "ng serve --watch",
+    "deploy": "ng deploy --base-href=https://rudymontenegro.github.io/MyFolioWeb/"
   },
   "dependencies": {
     "@angular/animations": "^18.1.0",
